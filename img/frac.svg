@@ -11,6 +11,7 @@
 	.st5{fill:#FFFFFF;}
 	.st6{font-size:21px;}
 	.st7{fill:#CCB9B2;}
+	.st8{font-size:12px;}
 </style>
 <g id="Layer_1" xmlns:vectornator="http://vectornator.io">
 	<rect x="-186.91" y="0" width="1920" height="1080"/>
@@ -6185,6 +6186,7 @@ AAAAAAAAAAAAAAAAAAA03XDPNb6zEukAAAAASUVORK5CYII=" transform="matrix(0.6475 0 0 0
 	<text transform="matrix(1 0 0 1 496.4611 292.2537)"><tspan x="0" y="0" class="st5 st3 st6">Levantamiento del</tspan><tspan x="0" y="25.2" class="st5 st3 st6">suelo de 3 metros.</tspan></text>
 	<path class="st7" d="M1415.61,97c0,0,11.59-27.48,25.33-33.37c13.74-5.89,26.5-3.93,47.11-11.78s39.25-7.85,39.25-7.85h18.88V97
 		H1415.61z"/>
+	<text transform="matrix(1 0 0 1 1123.4296 907.9806)"><tspan x="0" y="0" class="st5 st3 st8">* La representación no cumple</tspan><tspan x="0" y="14.4" class="st5 st3 st8">con las proporciones reales. Su fin </tspan><tspan x="0" y="28.8" class="st5 st3 st8">es solamente ilustrativo.</tspan></text>
 </g>
 <g id="Layer_2">
 </g>
